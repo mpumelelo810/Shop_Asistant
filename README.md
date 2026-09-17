@@ -1,2 +1,2 @@
 # Shop_Asistant
-helps gather data on my small shop
+I was owning a spaza shop so I had to keep records of the information felt the need to record in a simpler way and automatically do the analysis of data and calculate the profits, get to know slow moving products and get to know small product like in terms of quantity and get alerts to restock. This made data capturing easier I had clean data and that automatically gave me profit analysis.
